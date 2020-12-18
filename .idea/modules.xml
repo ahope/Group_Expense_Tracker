@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Group_Expense_Tracker.iml" filepath="$PROJECT_DIR$/.idea/modules/Group_Expense_Tracker.iml" group="Group_Expense_Tracker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Group Expense Tracker/app" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_nav"
+    app:startDestination="@id/expenseList">
+    <fragment
+        android:id="@+id/expenseList"
+        android:name="edu.neu.mad_sea.lishawang.groupexpensetracker.ExpenseList"
+        android:label="fragment_expense_list"
+        tools:layout="@layout/fragment_expense_list" />
+    <fragment
+        android:id="@+id/paymentList"
+        android:name="edu.neu.mad_sea.lishawang.groupexpensetracker.PaymentList"
+        android:label="fragment_payment_list"
+        tools:layout="@layout/fragment_payment_list" />
+</navigation>
